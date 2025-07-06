@@ -1,3 +1,34 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		13A7C61F2E1A2C2A00AB4DF7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 13A7C6002E1A2C2900AB4DF7 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 13A7C6072E1A2C2900AB4DF7;
+			remoteInfo = OddEvenGame;
+		};
+		13A7C6292E1A2C2A00AB4DF7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 13A7C6002E1A2C2900AB4DF7 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 13A7C6072E1A2C2900AB4DF7;
+			remoteInfo = OddEvenGame;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		13A7C6082E1A2C2900AB4DF7 /* OddEvenGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OddEvenGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13A7C61E2E1A2C2A00AB4DF7 /* OddEvenGameTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = OddEvenGameTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		13A7C6282E1A2C2A00AB4DF7 /* OddEvenGameUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = OddEvenGameUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
 		13A7C6302E1A2C2A00AB4DF7 /* Exceptions for "OddEvenGame" folder in "OddEvenGame" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
